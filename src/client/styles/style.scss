@@ -1,0 +1,271 @@
+body {
+  background-color: skyblue;
+
+}
+
+.form {
+  text-align: center;
+  
+}
+
+#pixa{
+  width: 40%;
+  text-align: center;
+
+}
+.results{
+  padding: 4%;
+  text-align: center;
+  font-size: 150%;
+}
+.logo{
+  text-align: center;
+
+}
+#logo{
+  text-align: center;
+ // padding: 5%;
+  width: 20%;
+}
+@media only screen and (max-width: 600px), (max-width: 768px){
+// @media screen and (max-width: 460px) {
+  #city{
+    font-size: 40%;
+    margin: 5%;
+
+
+  }
+  #start-date{
+    font-size: 40%;
+    margin: 5%;
+
+
+  }
+  #end-date{
+    font-size: 40%;
+    margin: 5%;
+
+
+  }
+  #submit{
+    font-size: 110%;  
+    margin: 5%;
+
+  }
+ 
+  #logo{
+    text-align: center;
+   // padding: 5%;
+    width: 20%;}
+  .results{
+    padding: 10%;
+    text-align: center;
+    font-size: 200%;
+  }
+  #pixa{
+    width: 40%;
+    text-align: center;
+  
+  }
+}
+  @media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (-webkit-device-pixel-ratio : 3) {
+   body{
+     padding: 10%;
+   }
+   
+    #city{
+      font-size: 70%;
+      margin: auto;
+      display: block;
+      width: 30%;
+      text-align: center;
+      padding: 10px;
+      margin-bottom: 3%;
+      margin-top: 3%;
+
+
+  
+    }
+    #start-date{
+      font-size: 70%;
+      margin: auto;
+      width: 30%;
+      display: block;
+      padding: 10px;
+      text-align: center;
+      margin-bottom: 3%;
+
+    }
+    #end-date{
+      font-size: 70%;
+      margin: auto;
+      width: 30%;
+      display: block;
+      padding: 10px;
+      text-align: center;
+      margin-bottom: 3%;
+
+    }
+    #submit{
+      font-size: 70%;
+      margin: auto;
+      width: 15%;
+      display: block;
+      text-align: center;
+      padding: 10px;
+      margin-bottom: 3%;
+
+
+    }
+   
+    #logo{
+      text-align: center;
+      padding: 10%;
+      width: 40%;
+
+    }
+    .results{
+      padding: 10%;
+      text-align: center;
+      font-size: 200%;
+    }
+    #pixa{
+      width: 40%;
+      text-align: center;
+
+  }
+}
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+  body{
+    padding: 10%;
+  }
+  
+   #city{
+     font-size: 70%;
+     margin: auto;
+     display: block;
+     width: 30%;
+     text-align: center;
+     padding: 10px;
+     margin-bottom: 3%;
+     margin-top: 3%;
+
+
+ 
+   }
+   #start-date{
+     font-size: 70%;
+     margin: auto;
+     width: 30%;
+     display: block;
+     padding: 10px;
+     text-align: center;
+     margin-bottom: 3%;
+
+   }
+   #end-date{
+     font-size: 70%;
+     margin: auto;
+     width: 30%;
+     display: block;
+     padding: 10px;
+     text-align: center;
+     margin-bottom: 3%;
+
+   }
+   #submit{
+     font-size: 70%;
+     margin: auto;
+     width: 15%;
+     display: block;
+     text-align: center;
+     padding: 10px;
+     margin-bottom: 3%;
+
+
+   }
+  
+   #logo{
+     text-align: center;
+     padding: 10%;
+     width: 40%;
+
+   }
+   .results{
+     padding: 10%;
+     text-align: center;
+     font-size: 200%;
+   }
+   #pixa{
+     width: 40%;
+     text-align: center;
+
+ }
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) { 
+  body{
+    padding: 10%;
+  }
+  
+   #city{
+     font-size: 70%;
+     margin: auto;
+     display: block;
+     width: 30%;
+     text-align: center;
+     padding: 10px;
+     margin-bottom: 3%;
+     margin-top: 3%;
+
+
+ 
+   }
+   #start-date{
+     font-size: 70%;
+     margin: auto;
+     width: 30%;
+     display: block;
+     padding: 10px;
+     text-align: center;
+     margin-bottom: 3%;
+
+   }
+   #end-date{
+     font-size: 70%;
+     margin: auto;
+     width: 30%;
+     display: block;
+     padding: 10px;
+     text-align: center;
+     margin-bottom: 3%;
+
+   }
+   #submit{
+     font-size: 70%;
+     margin: auto;
+     width: 15%;
+     display: block;
+     text-align: center;
+     padding: 10px;
+     margin-bottom: 3%;
+
+
+   }
+  
+   #logo{
+     text-align: center;
+     padding: 10%;
+     width: 40%;
+
+   }
+   .results{
+     padding: 10%;
+     text-align: center;
+     font-size: 200%;
+   }
+   #pixa{
+     width: 40%;
+     text-align: center;
+
+ }
+}
